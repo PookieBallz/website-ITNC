@@ -1,0 +1,17 @@
+h1{
+    color: bisque;
+    background-color: purple;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2{
+    color: chocolate;
+    background-color: firebrick;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h3{
+    color: darkgreen;
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+}
